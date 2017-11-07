@@ -13,5 +13,8 @@ TwitPane is awesome Twitter client for Android. This image introduces TwitPane's
     - screenshots
     - video
 
+# screenshot
+![introduce_twitpane](./introduce_twitpane.png "introduce_twitpane")
+
 # LICENSE
 - [MIT LICENSE](/LICENSE)
